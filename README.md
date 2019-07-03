@@ -1,6 +1,6 @@
 # Sentiment Analysis
 
-Sentiment analysis is the automated process of understanding an opinion about a given subject from written or spoken language.
+Sentiment analysis tool that automates process of understanding an opinion about a given subject from written language via Naive Bayes Classifier algorithm.
 
 ## Installation
 
