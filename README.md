@@ -16,6 +16,7 @@ Sentiment analysis tool that automates process of understanding an opinion about
 
 ```python
 run main.py
+
 ```
 
 
